@@ -1,4 +1,4 @@
-package org.zeroturnaround.jf.homework3.task1;
+package org.zeroturnaround.jf.homework3.task2;
 
 import java.util.List;
 

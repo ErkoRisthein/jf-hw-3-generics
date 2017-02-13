@@ -1,6 +1,6 @@
-package org.zeroturnaround.jf.homework3.task0;
+package org.zeroturnaround.jf.homework3.task1;
 
-public class Card {
+public final class Card {
 
   public final Suit suit;
   public final Rank rank;
